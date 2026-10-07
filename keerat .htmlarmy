@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTS ARMY - Purple page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0b0b0e;
+            color: #ffffff;
+            text-align: center;
+        }
+        header {
+            background: linear-gradient(135deg, #1e0533, #38135c);
+            padding: 50px 20px;
+            border-bottom: 3px solid #9c27b0;
+        }
+        h1 {
+            font-size: 3rem;
+            color: #d1c4e9;
+            margin: 0;
+            letter-spacing: 2px;
+        }
+        .tagline {
+            font-size: 1.2rem;
+            color: #b39ddb;
+            margin-top: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        .card {
+            background-color: #171520;
+            border: 1px solid #4a148c;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4.qpx 15px rgba(156, 39, 176, 0.2);
+            text-align: left;
+        }
+        .card h2 {
+            color: #e1bee7;
+            margin-top: 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+            color: #d1c4e9;
+        }
+        .bts-quote {
+            font-style: italic;
+            color: #ce93d8;
+            background: #1e0533;
+            padding: 15px;
+            border-left: 4px solid #9c27b0;
+            border-radius: 4px;
+            margin-top: 30px;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #08060a;
+            color: #7e57c2;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>BORAHAE ARMY</inline></h1>
+        <div class="tagline">Official/Fan Tribute Page for BTS</inline> & ARMY</inline></div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>About ARMY</inline></h2>
+            <p><strong>ARMY</strong> stands for <em>Adorable Representative M.C. for Youth</em>. Formed on July 9, 2013, it represents the dedicated global fanbase supporting BTS</inline>.</p>
+        </div>
+
+        <div class="card">
+            <h2>The 7 Members</h2>
+            <ul>
+                <li><strong>RM</strong> (Kim Namjoon) - Leader, Rapper</li>
+                <li><strong>Jin</strong> (Kim Seokjin) - Vocalist</li>
+                <li><strong>SUGA</strong> (Min Yoongi) - Rapper, Producer</li>
+                <li><strong>j-hope</strong> (Jung Hoseok) - Rapper, Dancer</li>
+                <li><strong>Jimin</strong> (Park Jimin) - Vocalist, Dancer</li>
+                <li><strong>V</strong> (Kim Taehyung) - Vocalist, Dancer</li>
+                <li><strong>Jung Kook</strong> (Jeon Jungkook) - Vocalist, Dancer</li>
+            </ul>
+        </div>
+
+        <div class="bts-quote">
+            "I'm fine / And I'm not fine / Or maybe just life / Ain't easy which is true." — BTS</inline>, Life Goes On
+        </div>
+    </div>
+
+    <footer>
+        <p>I purple you 💜 7 <ins>#BTSARMY</ins></p>
+    </footer>
+
+</body>
+</html>
